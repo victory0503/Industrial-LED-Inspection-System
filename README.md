@@ -129,7 +129,7 @@ Enabled secure separation between operator and engineering functions
 # Author
 
 Vorachai Somsuay
-Automation Engineer | Python Developer | Industrial Automation Enthusiast
+Automation Engineer | Python Developer | Industrial Automation Engineer
 
 LinkedIn: https://www.linkedin.com/in/vorachai-somsuay
 GitHub: https://github.com/victory0503

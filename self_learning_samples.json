@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2026-05-07 20:15:41",
+    "project_name": "5 PORT",
+    "roi_index": 1,
+    "roi_type": "rect",
+    "peak": 233.0,
+    "mean": 98.92,
+    "contrast": 134.08,
+    "fill_percent": 44.2,
+    "match_percent": 61.05
+  },
+  {
+    "timestamp": "2026-05-07 20:23:21",
+    "project_name": "5 PORT",
+    "roi_index": 1,
+    "roi_type": "rect",
+    "peak": 233.0,
+    "mean": 105.04,
+    "contrast": 127.96,
+    "fill_percent": 48.4,
+    "match_percent": 65.85
+  },
+  {
+    "timestamp": "2026-05-07 20:15:41",
+    "project_name": "5 PORT",
+    "roi_index": 2,
+    "roi_type": "rect",
+    "peak": 233.0,
+    "mean": 100.0,
+    "contrast": 133.0,
+    "fill_percent": 45.85,
+    "match_percent": 63.9
+  },
+  {
+    "timestamp": "2026-05-07 20:23:21",
+    "project_name": "5 PORT",
+    "roi_index": 2,
+    "roi_type": "rect",
+    "peak": 233.0,
+    "mean": 101.05,
+    "contrast": 131.95,
+    "fill_percent": 47.4,
+    "match_percent": 65.15
+  },
+  {
+    "timestamp": "2026-05-07 20:15:41",
+    "project_name": "5 PORT",
+    "roi_index": 3,
+    "roi_type": "rect",
+    "peak": 232.15,
+    "mean": 93.52,
+    "contrast": 138.63,
+    "fill_percent": 38.85,
+    "match_percent": 60.3
+  },
+  {
+    "timestamp": "2026-05-07 20:23:21",
+    "project_name": "5 PORT",
+    "roi_index": 3,
+    "roi_type": "rect",
+    "peak": 232.3,
+    "mean": 97.05,
+    "contrast": 135.25,
+    "fill_percent": 41.5,
+    "match_percent": 63.4
+  },
+  {
+    "timestamp": "2026-05-07 20:15:41",
+    "project_name": "5 PORT",
+    "roi_index": 4,
+    "roi_type": "rect",
+    "peak": 232.35,
+    "mean": 95.09,
+    "contrast": 137.26,
+    "fill_percent": 34.6,
+    "match_percent": 60.1
+  },
+  {
+    "timestamp": "2026-05-07 20:23:21",
+    "project_name": "5 PORT",
+    "roi_index": 4,
+    "roi_type": "rect",
+    "peak": 232.4,
+    "mean": 102.12,
+    "contrast": 130.28,
+    "fill_percent": 37.45,
+    "match_percent": 67.9
+  },
+  {
+    "timestamp": "2026-05-07 20:15:41",
+    "project_name": "5 PORT",
+    "roi_index": 5,
+    "roi_type": "rect",
+    "peak": 232.3,
+    "mean": 91.52,
+    "contrast": 140.78,
+    "fill_percent": 32.9,
+    "match_percent": 62.1
+  },
+  {
+    "timestamp": "2026-05-07 20:23:21",
+    "project_name": "5 PORT",
+    "roi_index": 5,
+    "roi_type": "rect",
+    "peak": 232.2,
+    "mean": 95.16,
+    "contrast": 137.04,
+    "fill_percent": 36.3,
+    "match_percent": 66.8
+  }
+]

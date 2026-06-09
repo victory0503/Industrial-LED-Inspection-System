@@ -1,0 +1,2904 @@
+========== PROJECT LOG ==========
+
+[PROJECT LOG]
+Time        : 2026-05-05 20:25:48
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 20:16:53
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 19:34:47
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 19:30:40
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 19:10:56
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 18:53:28
+Action      : BACKUP
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\project_backups\5 PORT\5 PORT_backup_20260505_185327.json
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 18:53:28
+Action      : EDIT PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 18:48:00
+Action      : BACKUP
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\project_backups\5 PORT\5 PORT_backup_20260505_184800.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 62
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 18:48:00
+Action      : EDIT PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 62
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 18:45:20
+Action      : BACKUP
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\project_backups\5 PORT\5 PORT_backup_20260505_184520.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 62
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 18:45:20
+Action      : EDIT PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 62
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 18:43:55
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 16:34:12
+Action      : BACKUP
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\project_backups\5 PORT\5 PORT_backup_20260505_163412.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 16:34:12
+Action      : EDIT PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 16:31:37
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 16:29:06
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 16:18:56
+Action      : BACKUP
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\project_backups\5 PORT\5 PORT_backup_20260505_161856.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 16:18:56
+Action      : EDIT PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 16:14:29
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: False
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 14:50:21
+Action      : BACKUP
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\project_backups\5 PORT\5 PORT_backup_20260505_145021.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: False
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 14:50:21
+Action      : EDIT PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: False
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 14:46:07
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: False
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 13:02:01
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : AEdelta (AEdelta123)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 12:45:00
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : AEdelta (AEdelta123)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 10:58:45
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vorachai (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 10:58:15
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vorachai (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - custom_color_rgb: {'r': 0, 'g': 255, 'b': 0}
+  - rgb_tolerance: 70
+  - fill_percent: 70
+  - match_percent: 20
+  - allow_white_boost: True
+  - white_boost_min: 180
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 09:30:30
+Action      : EDIT PROJECT
+Project     : 5 PORT
+User        : อรแาั (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 09:30:01
+Action      : EDIT PROJECT
+Project     : 5 PORT
+User        : vicky (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 70
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 09:21:47
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : vicky (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - custom_color_rgb: {'r': 0, 'g': 255, 'b': 0}
+  - rgb_tolerance: 70
+  - fill_percent: 70
+  - match_percent: 20
+  - allow_white_boost: True
+  - white_boost_min: 180
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 09:12:00
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - custom_color_rgb: {'r': 0, 'g': 255, 'b': 0}
+  - rgb_tolerance: 70
+  - fill_percent: 70
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 08:51:10
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : อรแาั (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - fill_percent: 70
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 08:43:16
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - fill_percent: 70
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-05-05 08:38:24
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - fill_percent: 70
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-28 11:33:57
+Action      : EDIT PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-28 11:27:32
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 30
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 218
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-28 11:01:12
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 30
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 218
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-24 08:12:49
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 30
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 218
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-24 07:55:16
+Action      : EDIT PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 30
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 218
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-24 07:51:29
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-22 10:31:34
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : อรแาั (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-22 09:43:40
+Action      : OPEN / LOAD PROJECT
+Project     : 5 PORT
+User        : กี้ (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-22 09:32:16
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (123)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-22 09:06:13
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-22 08:52:57
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-22 08:22:29
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-22 07:52:46
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-22 07:35:54
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 17:20:32
+Action      : OPEN / LOAD PROJECT
+Project     : 8 PORT
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 PORT.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 16:59:03
+Action      : CREATE PROJECT
+Project     : 5 PORT
+User        : VICKY (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 PORT.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 16:58:21
+Action      : CREATE PROJECT
+Project     : 8 PORT
+User        : VICKY (86532758)
+ROI Count   : 8
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\8 PORT.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 16:48:47
+Action      : COPY PROJECT
+Project     : 12 port
+User        : vicky (86532758)
+ROI Count   : 0
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\12 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 16:11:08
+Action      : OPEN / LOAD PROJECT
+Project     : 8 port
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 14:38:47
+Action      : OPEN / LOAD PROJECT
+Project     : 8 port
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 13:07:40
+Action      : OPEN / LOAD PROJECT
+Project     : 8 port
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 13:06:34
+Action      : OPEN / LOAD PROJECT
+Project     : 5 port
+User        : vicky (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 13:05:50
+Action      : OPEN / LOAD PROJECT
+Project     : 8 port
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 12:55:48
+Action      : EDIT PROJECT
+Project     : 5 port
+User        : vicky (86532758)
+ROI Count   : 5
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\5 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 12:51:43
+Action      : OPEN / LOAD PROJECT
+Project     : 5 port
+User        : vicky (86532758)
+ROI Count   : 5
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/5 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 12:41:20
+Action      : OPEN / LOAD PROJECT
+Project     : 8 port
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:/Users/vorsomsu/Downloads/LED check program/projects/8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 12:21:13
+Action      : EDIT PROJECT
+Project     : 8 port
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 12:19:40
+Action      : EDIT PROJECT
+Project     : 8 port
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 12:11:05
+Action      : EDIT PROJECT
+Project     : 8 port
+User        : vicky (86532758)
+ROI Count   : 8
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+[PROJECT LOG]
+Time        : 2026-04-21 10:46:45
+Action      : EDIT PROJECT
+Project     : 8 port
+User        : Vicky (86532758)
+ROI Count   : 8
+File Path   : C:\Users\vorsomsu\Downloads\LED check program\projects\8 port.json
+Parameters  :
+----------------------------------------------------------------------------------------------------
+
+
+========== PASS / FAIL LOG ==========
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 20:21:58
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 3/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_202158_annotated.png
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: False
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 2 | ON | Peak=195.1 | Mean=62.59 | Contrast=132.51
+  - ROI 4 | ON | Peak=232.3 | Mean=107.16 | Contrast=125.14
+  - ROI 5 | ON | Peak=233.0 | Mean=103.61 | Contrast=129.39
+Failed ROI  :
+  - ROI 1 | OFF | Peak=117.05 | Mean=46.63 | Contrast=70.42
+  - ROI 3 | OFF | Peak=211.1 | Mean=53.61 | Contrast=157.49
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 19:31:31
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 0/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_193131.png
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 214
+  - contrast: 62
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 17
+  - match_percent: 88
+  - allow_white_boost: True
+  - white_boost_min: 208
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - None
+Failed ROI  :
+  - ROI 1 | OFF | Peak=105.2 | Mean=44.25 | Contrast=60.95
+  - ROI 2 | OFF | Peak=153.0 | Mean=53.45 | Contrast=99.55
+  - ROI 3 | OFF | Peak=156.85 | Mean=49.03 | Contrast=107.82
+  - ROI 4 | OFF | Peak=232.2 | Mean=116.15 | Contrast=116.05
+  - ROI 5 | OFF | Peak=233.0 | Mean=107.7 | Contrast=125.3
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 18:53:41
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 2/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_185341.png
+Parameters  :
+  - top_pixels: 20
+  - min_peak: 102
+  - contrast: 112
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #89D700
+  - custom_color_rgb: {'r': 137, 'g': 215, 'b': 0}
+  - rgb_tolerance: 193
+  - fill_percent: 15
+  - match_percent: 57
+  - allow_white_boost: True
+  - white_boost_min: 183
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 33
+  - auto_brightness: OFF
+  - brightness: 107
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 4 | ON | Peak=232.4 | Mean=109.64 | Contrast=122.76
+  - ROI 5 | ON | Peak=233.0 | Mean=101.62 | Contrast=131.38
+Failed ROI  :
+  - ROI 1 | OFF | Peak=118.3 | Mean=45.02 | Contrast=73.28
+  - ROI 2 | OFF | Peak=185.35 | Mean=57.99 | Contrast=127.36
+  - ROI 3 | OFF | Peak=202.95 | Mean=52.88 | Contrast=150.07
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 18:48:18
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 1/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_184818.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 62
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 5 | ON | Peak=213.29 | Mean=88.45 | Contrast=124.84
+Failed ROI  :
+  - ROI 1 | OFF | Peak=92.89 | Mean=29.95 | Contrast=62.94
+  - ROI 2 | OFF | Peak=156.56 | Mean=42.66 | Contrast=113.9
+  - ROI 3 | OFF | Peak=171.21 | Mean=37.61 | Contrast=133.6
+  - ROI 4 | OFF | Peak=212.8 | Mean=81.71 | Contrast=131.09
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 18:48:10
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 1/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_184810.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 62
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 5 | ON | Peak=213.33 | Mean=88.32 | Contrast=125.01
+Failed ROI  :
+  - ROI 1 | OFF | Peak=93.55 | Mean=30.47 | Contrast=63.08
+  - ROI 2 | OFF | Peak=159.5 | Mean=43.05 | Contrast=116.45
+  - ROI 3 | OFF | Peak=173.45 | Mean=37.42 | Contrast=136.03
+  - ROI 4 | OFF | Peak=212.83 | Mean=81.81 | Contrast=131.02
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 18:45:56
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 2/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_184556.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 62
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 3 | ON | Peak=213.31 | Mean=97.77 | Contrast=115.54
+  - ROI 4 | ON | Peak=212.45 | Mean=99.22 | Contrast=113.23
+Failed ROI  :
+  - ROI 1 | OFF | Peak=94.92 | Mean=31.47 | Contrast=63.45
+  - ROI 2 | OFF | Peak=161.03 | Mean=44.3 | Contrast=116.73
+  - ROI 5 | OFF | Peak=125.37 | Mean=38.25 | Contrast=87.12
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 16:19:50
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 3/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_161950.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 2 | ON | Peak=213.1 | Mean=119.89 | Contrast=93.21
+  - ROI 4 | ON | Peak=212.66 | Mean=116.8 | Contrast=95.86
+  - ROI 5 | ON | Peak=213.36 | Mean=115.73 | Contrast=97.63
+Failed ROI  :
+  - ROI 1 | OFF | Peak=134.22 | Mean=57.74 | Contrast=76.48
+  - ROI 3 | OFF | Peak=113.2 | Mean=48.46 | Contrast=64.74
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 14:54:19
+Result      : PASS
+Project     : 5 PORT
+LED ON      : 5/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\PASS\20260505_to_20260803\5 PORT_PASS_20260505_145419.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 1 | ON | Peak=213.28 | Mean=128.25 | Contrast=85.03
+  - ROI 2 | ON | Peak=213.11 | Mean=113.19 | Contrast=99.92
+  - ROI 3 | ON | Peak=212.1 | Mean=118.06 | Contrast=94.04
+  - ROI 4 | ON | Peak=212.07 | Mean=113.99 | Contrast=98.08
+  - ROI 5 | ON | Peak=213.31 | Mean=111.78 | Contrast=101.53
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 14:54:03
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 2/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_145403.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 4 | ON | Peak=212.32 | Mean=112.09 | Contrast=100.23
+  - ROI 5 | ON | Peak=213.26 | Mean=109.63 | Contrast=103.63
+Failed ROI  :
+  - ROI 1 | OFF | Peak=124.57 | Mean=54.38 | Contrast=70.19
+  - ROI 2 | OFF | Peak=133.8 | Mean=49.47 | Contrast=84.33
+  - ROI 3 | OFF | Peak=168.56 | Mean=53.67 | Contrast=114.89
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 14:53:53
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 2/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_145353.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Circle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+  - roi_locked: True
+  - golden_image_path: None
+  - golden_compare_enabled: True
+  - golden_diff_threshold: 28.0
+Passed ROI  :
+  - ROI 4 | ON | Peak=212.47 | Mean=111.7 | Contrast=100.77
+  - ROI 5 | ON | Peak=213.26 | Mean=108.97 | Contrast=104.29
+Failed ROI  :
+  - ROI 1 | OFF | Peak=124.55 | Mean=52.57 | Contrast=71.98
+  - ROI 2 | OFF | Peak=134.07 | Mean=48.23 | Contrast=85.84
+  - ROI 3 | OFF | Peak=164.12 | Mean=52.21 | Contrast=111.91
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 09:36:58
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 3/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_093658.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+Passed ROI  :
+  - ROI 2 | ON | Peak=213.47 | Mean=94.71 | Contrast=118.76
+  - ROI 4 | ON | Peak=212.44 | Mean=101.22 | Contrast=111.22
+  - ROI 5 | ON | Peak=212.96 | Mean=98.6 | Contrast=114.36
+Failed ROI  :
+  - ROI 1 | OFF | Peak=105.15 | Mean=40.78 | Contrast=64.37
+  - ROI 3 | OFF | Peak=115.37 | Mean=44.74 | Contrast=70.63
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 09:31:25
+Result      : PASS
+Project     : 5 PORT
+LED ON      : 5/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\PASS\20260505_to_20260803\5 PORT_PASS_20260505_093125.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+Passed ROI  :
+  - ROI 1 | ON | Peak=213.48 | Mean=107.07 | Contrast=106.41
+  - ROI 2 | ON | Peak=213.5 | Mean=96.62 | Contrast=116.88
+  - ROI 3 | ON | Peak=212.54 | Mean=94.65 | Contrast=117.89
+  - ROI 4 | ON | Peak=212.39 | Mean=101.85 | Contrast=110.54
+  - ROI 5 | ON | Peak=213.03 | Mean=97.73 | Contrast=115.3
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 09:30:56
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 2/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_093055.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 65
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+Passed ROI  :
+  - ROI 4 | ON | Peak=212.63 | Mean=95.08 | Contrast=117.55
+  - ROI 5 | ON | Peak=213.12 | Mean=98.77 | Contrast=114.35
+Failed ROI  :
+  - ROI 1 | OFF | Peak=106.59 | Mean=45.1 | Contrast=61.49
+  - ROI 2 | OFF | Peak=211.75 | Mean=69.1 | Contrast=142.65
+  - ROI 3 | OFF | Peak=100.16 | Mean=45.02 | Contrast=55.14
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 09:29:27
+Result      : FAIL
+Project     : 5 PORT
+LED ON      : 3/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\FAIL\20260505_to_20260803\5 PORT_FAIL_20260505_092927.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 129
+  - contrast: 34
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #98BD5F
+  - custom_color_rgb: {'r': 152, 'g': 189, 'b': 95}
+  - rgb_tolerance: 200
+  - fill_percent: 14
+  - match_percent: 70
+  - allow_white_boost: True
+  - white_boost_min: 255
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 46
+  - auto_brightness: OFF
+  - brightness: 87
+  - auto_zoom: OFF
+  - zoom: 289
+Passed ROI  :
+  - ROI 2 | ON | Peak=213.49 | Mean=102.96 | Contrast=110.53
+  - ROI 4 | ON | Peak=212.63 | Mean=102.04 | Contrast=110.59
+  - ROI 5 | ON | Peak=213.15 | Mean=105.43 | Contrast=107.72
+Failed ROI  :
+  - ROI 1 | OFF | Peak=113.39 | Mean=51.78 | Contrast=61.61
+  - ROI 3 | OFF | Peak=107.42 | Mean=51.79 | Contrast=55.63
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 09:15:04
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 0/4
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\20260505_to_20260803\8 PORT_FAIL_20260505_091504.png
+Parameters  :
+  - top_pixels: 63
+  - min_peak: 63
+  - contrast: 121
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #4C9618
+  - custom_color_rgb: {'r': 76, 'g': 150, 'b': 24}
+  - rgb_tolerance: 70
+  - fill_percent: 70
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+Passed ROI  :
+  - None
+Failed ROI  :
+  - ROI 1 | OFF | Peak=255.0 | Mean=30.22 | Contrast=224.78
+  - ROI 2 | OFF | Peak=255.0 | Mean=15.56 | Contrast=239.44
+  - ROI 3 | OFF | Peak=255.0 | Mean=19.01 | Contrast=235.99
+  - ROI 4 | OFF | Peak=255.0 | Mean=18.97 | Contrast=236.03
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 08:59:43
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 0/1
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\20260505_to_20260803\8 PORT_FAIL_20260505_085943.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: RGB
+  - detect_mode: Color
+  - color_target: Custom
+  - custom_color: #FCFFB2
+  - fill_percent: 73
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 70
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+Passed ROI  :
+  - None
+Failed ROI  :
+  - ROI 1 | OFF | Peak=255.0 | Mean=39.68 | Contrast=215.32
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-05-05 08:43:43
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 0/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\20260505_to_20260803\8 PORT_FAIL_20260505_084343.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - fill_percent: 70
+  - roi_shape: Rectangle ROI
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+Passed ROI  :
+  - None
+Failed ROI  :
+  - ROI 1 | OFF | Peak=56.5 | Mean=45.49 | Contrast=11.01
+  - ROI 2 | OFF | Peak=54.97 | Mean=44.38 | Contrast=10.59
+  - ROI 3 | OFF | Peak=91.76 | Mean=80.3 | Contrast=11.46
+  - ROI 4 | OFF | Peak=91.6 | Mean=80.88 | Contrast=10.72
+  - ROI 5 | OFF | Peak=106.97 | Mean=94.58 | Contrast=12.39
+  - ROI 6 | OFF | Peak=143.72 | Mean=131.07 | Contrast=12.65
+  - ROI 7 | OFF | Peak=179.84 | Mean=159.16 | Contrast=20.68
+  - ROI 8 | OFF | Peak=189.9 | Mean=174.71 | Contrast=15.19
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-28 11:37:30
+Result      : PASS
+Project     : 8 PORT
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\PASS\8 PORT_PASS_20260428_113730.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 43
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 189
+Passed ROI  :
+  - ROI 1 | ON | Peak=252.95 | Mean=68.24 | Contrast=184.71
+  - ROI 2 | ON | Peak=253.41 | Mean=102.68 | Contrast=150.73
+  - ROI 3 | ON | Peak=253.37 | Mean=100.02 | Contrast=153.35
+  - ROI 4 | ON | Peak=253.02 | Mean=98.51 | Contrast=154.51
+  - ROI 5 | ON | Peak=252.71 | Mean=90.64 | Contrast=162.07
+  - ROI 6 | ON | Peak=252.98 | Mean=104.71 | Contrast=148.27
+  - ROI 7 | ON | Peak=253.37 | Mean=103.41 | Contrast=149.96
+  - ROI 8 | ON | Peak=252.94 | Mean=94.5 | Contrast=158.44
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-28 11:02:08
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 0/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\8 PORT_FAIL_20260428_110208.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 30
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 218
+Passed ROI  :
+  - None
+Failed ROI  :
+  - ROI 1 | OFF | Peak=149.88 | Mean=60.14 | Contrast=89.74
+  - ROI 2 | OFF | Peak=44.91 | Mean=33.42 | Contrast=11.49
+  - ROI 3 | OFF | Peak=41.88 | Mean=32.01 | Contrast=9.87
+  - ROI 4 | OFF | Peak=76.44 | Mean=33.03 | Contrast=43.41
+  - ROI 5 | OFF | Peak=140.19 | Mean=45.52 | Contrast=94.67
+  - ROI 6 | OFF | Peak=68.85 | Mean=35.09 | Contrast=33.76
+  - ROI 7 | OFF | Peak=44.82 | Mean=35.15 | Contrast=9.67
+  - ROI 8 | OFF | Peak=188.45 | Mean=79.96 | Contrast=108.49
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-24 08:13:01
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 7/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\8 PORT_FAIL_20260424_081301.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 30
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 218
+Passed ROI  :
+  - ROI 1 | ON | Peak=248.2 | Mean=96.9 | Contrast=151.3
+  - ROI 2 | ON | Peak=252.52 | Mean=92.01 | Contrast=160.51
+  - ROI 3 | ON | Peak=251.4 | Mean=88.33 | Contrast=163.07
+  - ROI 4 | ON | Peak=252.52 | Mean=85.43 | Contrast=167.09
+  - ROI 5 | ON | Peak=250.98 | Mean=94.56 | Contrast=156.42
+  - ROI 7 | ON | Peak=252.76 | Mean=98.09 | Contrast=154.67
+  - ROI 8 | ON | Peak=240.97 | Mean=85.18 | Contrast=155.79
+Failed ROI  :
+  - ROI 6 | OFF | Peak=170.39 | Mean=58.35 | Contrast=112.04
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-24 07:56:14
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 7/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\8 PORT_FAIL_20260424_075614.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 30
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 218
+Passed ROI  :
+  - ROI 1 | ON | Peak=252.93 | Mean=115.64 | Contrast=137.29
+  - ROI 2 | ON | Peak=253.26 | Mean=110.07 | Contrast=143.19
+  - ROI 3 | ON | Peak=253.21 | Mean=103.92 | Contrast=149.29
+  - ROI 4 | ON | Peak=252.95 | Mean=99.64 | Contrast=153.31
+  - ROI 5 | ON | Peak=252.72 | Mean=112.19 | Contrast=140.53
+  - ROI 7 | ON | Peak=252.9 | Mean=105.07 | Contrast=147.83
+  - ROI 8 | ON | Peak=251.94 | Mean=102.06 | Contrast=149.88
+Failed ROI  :
+  - ROI 6 | OFF | Peak=176.81 | Mean=65.63 | Contrast=111.18
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-24 07:55:28
+Result      : PASS
+Project     : 8 PORT
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\PASS\8 PORT_PASS_20260424_075528.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 30
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 218
+Passed ROI  :
+  - ROI 1 | ON | Peak=253.27 | Mean=120.67 | Contrast=132.6
+  - ROI 2 | ON | Peak=253.3 | Mean=115.34 | Contrast=137.96
+  - ROI 3 | ON | Peak=253.24 | Mean=108.77 | Contrast=144.47
+  - ROI 4 | ON | Peak=253.15 | Mean=105.69 | Contrast=147.46
+  - ROI 5 | ON | Peak=253.01 | Mean=119.57 | Contrast=133.44
+  - ROI 6 | ON | Peak=252.41 | Mean=96.27 | Contrast=156.14
+  - ROI 7 | ON | Peak=252.97 | Mean=107.31 | Contrast=145.66
+  - ROI 8 | ON | Peak=252.75 | Mean=106.82 | Contrast=145.93
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-22 09:43:51
+Result      : PASS
+Project     : 5 PORT
+LED ON      : 5/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 PORT\PASS\5 PORT_PASS_20260422_094351.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+Passed ROI  :
+  - ROI 1 | ON | Peak=237.64 | Mean=100.99 | Contrast=136.65
+  - ROI 2 | ON | Peak=248.1 | Mean=116.85 | Contrast=131.25
+  - ROI 3 | ON | Peak=245.25 | Mean=98.96 | Contrast=146.29
+  - ROI 4 | ON | Peak=252.19 | Mean=87.79 | Contrast=164.4
+  - ROI 5 | ON | Peak=249.4 | Mean=88.49 | Contrast=160.91
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-22 09:32:33
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 6/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\8 PORT_FAIL_20260422_093233.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+Passed ROI  :
+  - ROI 1 | ON | Peak=253.28 | Mean=121.8 | Contrast=131.48
+  - ROI 3 | ON | Peak=253.41 | Mean=118.62 | Contrast=134.79
+  - ROI 4 | ON | Peak=253.46 | Mean=105.08 | Contrast=148.38
+  - ROI 5 | ON | Peak=253.08 | Mean=104.76 | Contrast=148.32
+  - ROI 7 | ON | Peak=253.34 | Mean=105.39 | Contrast=147.95
+  - ROI 8 | ON | Peak=253.11 | Mean=122.29 | Contrast=130.82
+Failed ROI  :
+  - ROI 2 | OFF | Peak=253.42 | Mean=141.8 | Contrast=111.62
+  - ROI 6 | OFF | Peak=176.25 | Mean=72.7 | Contrast=103.55
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-22 09:17:07
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 7/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\8 PORT_FAIL_20260422_091707.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+Passed ROI  :
+  - ROI 1 | ON | Peak=253.26 | Mean=125.74 | Contrast=127.52
+  - ROI 2 | ON | Peak=253.28 | Mean=115.08 | Contrast=138.2
+  - ROI 3 | ON | Peak=253.37 | Mean=107.54 | Contrast=145.83
+  - ROI 4 | ON | Peak=253.37 | Mean=102.21 | Contrast=151.16
+  - ROI 5 | ON | Peak=253.13 | Mean=114.74 | Contrast=138.39
+  - ROI 7 | ON | Peak=253.4 | Mean=108.72 | Contrast=144.68
+  - ROI 8 | ON | Peak=252.98 | Mean=102.49 | Contrast=150.49
+Failed ROI  :
+  - ROI 6 | OFF | Peak=177.14 | Mean=56.97 | Contrast=120.17
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-22 08:47:55
+Result      : PASS
+Project     : 8 PORT
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\PASS\8 PORT_PASS_20260422_084755.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+Passed ROI  :
+  - ROI 1 | ON | Peak=253.28 | Mean=126.69 | Contrast=126.59
+  - ROI 2 | ON | Peak=253.44 | Mean=113.77 | Contrast=139.67
+  - ROI 3 | ON | Peak=253.42 | Mean=116.8 | Contrast=136.62
+  - ROI 4 | ON | Peak=253.44 | Mean=103.2 | Contrast=150.24
+  - ROI 5 | ON | Peak=253.14 | Mean=103.16 | Contrast=149.98
+  - ROI 6 | ON | Peak=253.07 | Mean=101.45 | Contrast=151.62
+  - ROI 7 | ON | Peak=253.22 | Mean=120.25 | Contrast=132.97
+  - ROI 8 | ON | Peak=253.3 | Mean=99.49 | Contrast=153.81
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-22 08:33:55
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 7/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\8 PORT_FAIL_20260422_083355.png
+Parameters  :
+  - top_pixels: 100
+  - min_peak: 234
+  - contrast: 121
+  - display_mode: Greyscale
+  - detect_mode: Greyscale
+  - color_target: Green
+  - custom_color: #00FF00
+  - auto_focus: OFF
+  - focus: 32
+  - auto_brightness: OFF
+  - brightness: 128
+  - auto_zoom: OFF
+  - zoom: 157
+Passed ROI  :
+  - ROI 1 | ON | Peak=253.19 | Mean=122.61 | Contrast=130.58
+  - ROI 2 | ON | Peak=253.34 | Mean=108.93 | Contrast=144.41
+  - ROI 3 | ON | Peak=253.37 | Mean=113.03 | Contrast=140.34
+  - ROI 4 | ON | Peak=253.31 | Mean=100.14 | Contrast=153.17
+  - ROI 5 | ON | Peak=253.05 | Mean=99.62 | Contrast=153.43
+  - ROI 7 | ON | Peak=252.73 | Mean=119.0 | Contrast=133.73
+  - ROI 8 | ON | Peak=253.29 | Mean=101.39 | Contrast=151.9
+Failed ROI  :
+  - ROI 6 | OFF | Peak=176.7 | Mean=72.77 | Contrast=103.93
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-22 07:37:14
+Result      : PASS
+Project     : 8 PORT
+LED ON      : 7/7
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\PASS\8 PORT_PASS_20260422_073714.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-22 07:37:09
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 7/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\8 PORT_FAIL_20260422_073709.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-22 07:36:47
+Result      : FAIL
+Project     : 8 PORT
+LED ON      : 7/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 PORT\FAIL\8 PORT_FAIL_20260422_073647.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 16:49:35
+Result      : FAIL
+Project     : 12 port
+LED ON      : 1/2
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\12 port\FAIL\12 port_FAIL_20260421_164935.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 16:12:43
+Result      : PASS
+Project     : 8 port
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 port\PASS\8 port_PASS_20260421_161243.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 16:12:11
+Result      : FAIL
+Project     : 8 port
+LED ON      : 7/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 port\FAIL\8 port_FAIL_20260421_161211.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 13:25:04
+Result      : FAIL
+Project     : 8 port
+LED ON      : 7/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 port\FAIL\8 port_FAIL_20260421_132504.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 13:22:41
+Result      : PASS
+Project     : 8 port
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 port\PASS\8 port_PASS_20260421_132241.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 13:08:02
+Result      : FAIL
+Project     : 8 port
+LED ON      : 1/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 port\FAIL\8 port_FAIL_20260421_130802.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 13:07:16
+Result      : FAIL
+Project     : 5 port
+LED ON      : 3/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 port\FAIL\5 port_FAIL_20260421_130716.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 13:06:37
+Result      : PASS
+Project     : 5 port
+LED ON      : 5/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\5 port\PASS\5 port_PASS_20260421_130637.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 13:06:02
+Result      : PASS
+Project     : 8 port
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\8 port\PASS\8 port_PASS_20260421_130602.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 13:01:18
+Result      : PASS
+Project     : 5 port
+LED ON      : 5/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\PASS\5 port_PASS_20260421_130118.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:56:15
+Result      : PASS
+Project     : 5 port
+LED ON      : 5/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\PASS\5 port_PASS_20260421_125615.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:56:09
+Result      : FAIL
+Project     : 5 port
+LED ON      : 0/5
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\5 port_FAIL_20260421_125609.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:44:33
+Result      : PASS
+Project     : 8 port
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\PASS\8 port_PASS_20260421_124433.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:42:20
+Result      : FAIL
+Project     : 8 port
+LED ON      : 3/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\8 port_FAIL_20260421_124220.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:42:07
+Result      : PASS
+Project     : 8 port
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\PASS\8 port_PASS_20260421_124207.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:41:57
+Result      : PASS
+Project     : 8 port
+LED ON      : 8/8
+Window Sec  : 5.0
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\PASS\8 port_PASS_20260421_124157.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:19:52
+Result      : PASS
+Project     : 8 port
+LED ON      : 8/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\PASS\8 port_PASS_20260421_121952.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:19:05
+Result      : FAIL
+Project     : 8 port
+LED ON      : 0/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\8 port_FAIL_20260421_121905.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:18:56
+Result      : FAIL
+Project     : 8 port
+LED ON      : 0/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\8 port_FAIL_20260421_121856.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:18:49
+Result      : FAIL
+Project     : 8 port
+LED ON      : 0/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\8 port_FAIL_20260421_121849.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:18:41
+Result      : FAIL
+Project     : 8 port
+LED ON      : 0/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\8 port_FAIL_20260421_121841.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:10:33
+Result      : PASS
+Project     : 8 port
+LED ON      : 8/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\PASS\8 port_PASS_20260421_121033.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:10:25
+Result      : FAIL
+Project     : 8 port
+LED ON      : 6/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\8 port_FAIL_20260421_121025.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:10:05
+Result      : FAIL
+Project     : 8 port
+LED ON      : 7/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\8 port_FAIL_20260421_121004.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
+
+[PASS / FAIL LOG]
+Time        : 2026-04-21 12:05:30
+Result      : FAIL
+Project     : 8 port
+LED ON      : 2/8
+Window Sec  : -
+Snapshot    : C:\Users\vorsomsu\Downloads\LED check program\result_captures\FAIL\8 port_FAIL_20260421_120530.png
+Parameters  :
+Passed ROI  :
+  - None
+Failed ROI  :
+  - None
+----------------------------------------------------------------------------------------------------
